@@ -1,0 +1,55 @@
+Job_ID,job_title,Company,Company_ID,Job_Status,post_date
+j10000,Project Manager,CGI Constructors,10005,opening,2025-05-13
+j10001,Project Manager,CGI Constructors,10005,closed,2025-05-19
+j10002,Legal Associate,Lakefield LLP,10008,closed,2025-03-05
+j10003,Project Manager,The HK Group,10026,closed,2025-04-11
+j10004,Softwware Developer,Juniper Networks,10031,closed,2025-05-25
+j10005,Project Manager,Granite Construction,10032,opening,2025-04-30
+j10006,Softwware Developer,Broadsign Canada Company,10004,opening,2025-04-03
+j10007,Softwware Developer,CoLab Software Inc.,10006,closed,2025-04-28
+j10008,Project Manager,Toll Brothers,10018,opening,2025-04-07
+j10009,Softwware Developer,"Riva International, Inc.",10014,opening,2025-04-03
+j10010,Engineer,Greenheck Group,10016,closed,2025-04-13
+j10011,Engineer,R.F. Binnie & Associates Ltd.,10013,closed,2025-05-25
+j10012,Softwware Developer,Businessolver,10020,opening,2025-05-01
+j10013,Softwware Developer,Nutanix,10023,opening,2025-05-16
+j10014,Data Analyst,Businessolver,10020,opening,2025-04-05
+j10015,Data Analyst,Businessolver,10020,opening,2025-04-27
+j10016,Consultant,"Acuitas Therapeutics, Inc.",10001,opening,2025-04-11
+j10017,Data Analyst,Velera,10022,opening,2025-05-26
+j10018,Engineer,Altec,10027,closed,2025-05-31
+j10019,Data Analyst,Artis REIT,10002,closed,2025-05-09
+j10020,Softwware Developer,Alvaria,10024,opening,2025-05-24
+j10021,Project Coordinator,Suffolk,10017,opening,2025-05-27
+j10022,Project Coordinator,Toll Brothers,10018,opening,2025-04-12
+j10023,Project Coordinator,Granite Construction,10032,closed,2025-04-29
+j10024,Project Coordinator,Fuller Landau LLP,10007,closed,2025-05-21
+j10025,Consultant,Absorb Software Inc.,10000,closed,2025-05-14
+j10026,Data Analyst,Fuller Landau LLP,10007,closed,2025-05-14
+j10027,Consultant,Obsidian Energy Ltd,10010,opening,2025-04-11
+j10028,Consultant,Peterson Investments (Canada) Inc.,10011,opening,2025-04-14
+j10029,Softwware Developer,FICO,10015,opening,2025-05-02
+j10030,Engineer,R.F. Binnie & Associates Ltd.,10013,opening,2025-05-22
+j10031,Softwware Developer,"Riva International, Inc.",10014,closed,2025-05-23
+j10032,Engineer,Coorstek,10025,opening,2025-04-06
+j10033,Data Analyst,Oppenheimer & Co. Inc.,10028,opening,2025-03-17
+j10034,Insurance Agent,Excellus BlueCross BlueShield,10019,opening,2025-03-05
+j10035,Legal Associate,Boughton Law Corporation,10003,closed,2025-03-26
+j10036,Legal Associate,Lakefield LLP,10008,opening,2025-04-26
+j10037,Softwware Developer,"Riva International, Inc.",10014,opening,2025-04-11
+j10038,Legal Associate,McDougall Gauley LLP,10009,opening,2025-05-26
+j10039,Finicial Advisor,Globe Life,10034,closed,2025-03-18
+j10040,Legal Associate,McDougall Gauley LLP,10009,closed,2025-05-25
+j10041,Softwware Developer,Nutanix,10023,closed,2025-05-12
+j10042,Softwware Developer,Nutanix,10023,opening,2025-04-02
+j10043,Data Analyst,Obsidian Energy Ltd,10010,opening,2025-04-06
+j10044,Softwware Developer,Cloudflare,10030,opening,2025-04-10
+j10045,Project Manager,Kaiser Aluminum,10029,opening,2025-03-16
+j10046,Softwware Developer,Internet Brands,10035,opening,2025-03-06
+j10047,Softwware Developer,Internet Brands,10035,opening,2025-04-29
+j10048,Medical Asistance,Arthrex,10033,opening,2025-04-04
+j10049,Medical Asistance,Arthrex,10033,opening,2025-06-01
+j10050,Insurance Agent,Medica,10021,closed,2025-04-24
+j10051,Finicial Advisor,Excellus BlueCross BlueShield,10019,closed,2025-04-29
+j10052,Legal Associate,McDougall Gauley LLP,10009,opening,2025-03-18
+j10053,Finicial Advisor,Globe Life,10034,opening,2025-03-30
