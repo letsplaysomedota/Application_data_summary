@@ -1,6 +1,6 @@
 # Application_data_summary
 # RAG-Based Interactive Dashboard with Chatbot
-
+## Web View Link:http://24.144.81.41:8501/
 This project integrates a **Retrieval-Augmented Generation (RAG)** chatbot with a **Streamlit-powered interactive dashboard** to help visualize and query data related to On-the-Job Training (OJT) programs across institutions and industries. It uses FAISS for fast similarity search over embedded text data and OpenAI's GPT model for natural language understanding.
 
 ---
